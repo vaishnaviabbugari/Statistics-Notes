@@ -1,3 +1,3 @@
 # Statistics-Notes
-These are the all statistics notes written from my understanding 
+This repo contains of all the statistics notes written from my understanding 
 #communitysession #knowledgesharing 
